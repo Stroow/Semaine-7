@@ -1,0 +1,57 @@
+body {  
+        background-image: url(img/footer_lodyas.png);  
+        margin-top:20px; 
+        margin-left:20px;
+        margin-right:20px;
+        overflow-y: hidden;}
+
+
+ /* scroll par onglet */			
+.jumbotron {
+            border-radius:30px ;
+			padding-bottom:100px;
+		    padding-top:100px;
+			margin-bottom:1000px;}		
+			
+
+
+iframe {
+	margin-left:10px ;
+	margin-top:-px ;
+    width:100%;
+	overflow:hidden;}
+	
+ 
+#menu1 { background-image: url(img/geometry2.png);}
+
+#menu2 { background-image: url(img/geometry2.png);}
+
+#menu3 { background-image: url(img/geometry2.png);}
+
+#menu4 { background-image: url(img/geometry2.png);}
+
+#menu5 { background-image: url(img/geometry2.png);}
+
+#menu6 { background-image: url(img/geometry2.png);}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    font-family: verdana;
+    font-weight: lighter;
+}
+
+ul{
+    font-size: 20px;
+}
+
+#acc{
+    text-align: center;
+    text-shadow: grey 1px 1px;
+    font-size: 15;
+}
+
+.image{text-align: center;}
